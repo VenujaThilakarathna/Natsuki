@@ -1,7 +1,7 @@
 #    Project By TeamNatsuki
 
 __help__ = """
-** ✨ Natsuki - A Powerful Telegram Group Manager ✨ **
+** ✨ Cozmo - A Powerful Telegram Group Manager ✨ **
 
 Powerful Abilities
 
@@ -13,9 +13,9 @@ Powerful Abilities
 
 • Channel Music Play 🎵
 
-Developer [SADEW JAYASEKARA](https://t.me/Itz_Sadew)
+Developer [VENUJA THILAKARATHNA](https://t.me/Venuja_Sadew)
 
-Support Group [Support](https://t.me/NatsukiSupport_Official)
+Support Group [Support](https://t.me/CozmoBotSupport_Official)
 
 """
 __mod_name__ = "About ⚡"
